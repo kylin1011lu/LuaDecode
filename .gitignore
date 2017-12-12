@@ -1,0 +1,10 @@
+#Win32 build
+Debug/
+Release/
+*.db
+*.suo
+*.sdf
+*.opensdf
+obj/
+*.opendb
+*.ipch
